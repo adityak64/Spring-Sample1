@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Springboot Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: c_adkuma
+Implementation-Vendor-Id: io.java.springboot
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-c
+ ourse-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
